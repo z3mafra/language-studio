@@ -59,7 +59,7 @@ No GitHub na raiz do repositório 'language-studio', foi crido o arquivo 'readme
 Nesta etapa, o procedimento foi o de editar o arquivo "readme.md". E, para isso:
 
 >>  No repositório 'language-studio', no GitHub:
-> - Botão: :pen:  
+> - Botão: :pencil2: "lápis"  
 > - Abre o editor de texto no GitHub.
 
 Após a criação do arquivo, no diretório local foi feito o git pull do repositório.  
