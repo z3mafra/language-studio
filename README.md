@@ -22,12 +22,12 @@ $ CD language-studio
 $ git init
 ~~~
 
-No GItHub foi criado o repositório recog-txt-img
+No GItHub foi criado o repositório 'language-studio'
 
 > Comandos/configurações:  
 > 
 > - "Novo repositório".  
-> - Nome para o repositório: "language-studio".  
+> - Nome para o repositório: 'language-studio'.  
 > - Descrição: "Desafio: conhecendo o Language Studio do Azure".  
 > - Visibilidade: "pública".  
 > - Opção: README.  
@@ -38,7 +38,7 @@ No GItHub foi criado o repositório recog-txt-img
 
 ## 2. Crie uma pasta chamada 'inputs' e crie um documento de texto com algumas sentenças;    
 
-No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
+No GItHub foi criado o diretório 'inputs' no repositório 'language-studio'
 
 > Comandos/configurações:  
 > 
@@ -55,12 +55,12 @@ No GItHub foi criado o diretório 'inputs' no repositório recog-txt-img
 
 ### 3.1. Criar um arquivo readme.md  
 
-No GitHub na raiz do repositório 'language-studio', foi crido o arquivo 'readme.md', no ato da criação do repositório (Ver etapa 1).
-Nesta etapa, procedimento de editar o arquivo "readme.md".
+No GitHub na raiz do repositório 'language-studio', foi crido o arquivo 'readme.md', no ato da criação do repositório (Ver etapa 1. Criar um novo repositório no github).  
+Nesta etapa, o procedimento foi o de editar o arquivo "readme.md". E, para isso:
 
->>  
+>>  No repositório 'language-studio', no GitHub:
 > - Botão: :pen:  
->
+> - Abre o editor de texto no GitHub.
 
 Após a criação do arquivo, no diretório local foi feito o git pull do repositório.  
 O arquivo foi editado no editor do GitHub e com o auxílio do VSCode no diretório local.  
