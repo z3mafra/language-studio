@@ -62,5 +62,5 @@ Nesta etapa, o procedimento foi o de editar o arquivo "readme.md". E, para isso:
 > - Botão: :pencil2: "lápis"  
 > - Abre o editor de texto no GitHub.
 
-Após a criação do arquivo, no diretório local foi feito o git pull do repositório.  
+Após a edição do arquivo, no diretório local foi feito o git pull do repositório.  
 O arquivo foi editado no editor do GitHub e com o auxílio do VSCode no diretório local.  
