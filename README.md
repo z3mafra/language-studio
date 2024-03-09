@@ -104,24 +104,26 @@ Analyze reviews in Language Studio
 
 3. Under Select text language, select English.
 
-4. Under Select your Azure resource, select your resource.
+4. Under Select your Azure resource, select your resource. LabFala-texto-fiat-uno.txt
 
 5. Under Enter your own text, upload a file, or use one of our sample texts, copy and paste the following review:
+
+>> Porque o Fiat Uno é tão bom?  
+>> É um carro simples e robusto, com bom valor de revenda e liquidez, mesmo já fora de linha. Tem no acabamento simples sua maior fragilidade, mas no geral não apresenta falhas graves e custosas de reparar. E deve permanecer ainda “bom de mercado” por um bom tempo pela frente. É uma opção a ser considerada.  
+>
 
 6. Check the box to acknowledge that the demo will incur usage and may incur costs, and then select Run.
 
 
-<img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/detect-faces-store-camera-1.jpg" width="50%">
-
-<img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/detect-faces-output-store-camera-1.jpg" width="50%">
-
-  
-<img src="https://github.com/z3mafra/recog-txt-img/blob/main/inputs/image-analysis-store-camera-4.jpg" width="50%">
-
-<img src="https://github.com/z3mafra/recog-txt-img/blob/main/output/image-analysis-output-store-camera-4.jpg" width="50%">  
-  
+<img src="https://github.com/z3mafra/language-studio/blob/main/contents/LabFala-fiat1-titulo.jpg" width="50%">
 
 7. Review the output. Notice that the document is analyzed for sentiment, as well as each sentence. Select Sentence 1 to show the sentiment analysis for that sentence.
+
+
+<img src="https://github.com/z3mafra/language-studio/blob/main/contents/LabFala-fiat2-titulo.jpg" width="50%">
+
+  
+<img src="https://github.com/z3mafra/language-studio/blob/main/contents/LabFala-fiat3-titulo.jpg" width="50%">
 
 
 run and run (prints)
