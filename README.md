@@ -65,7 +65,22 @@ Nesta etapa, o procedimento foi o de editar o arquivo "readme.md". E, para isso:
 >
 
 Após a edição do arquivo, no diretório local foi feito o git pull do repositório.  
-O arquivo foi editado no editor do GitHub e com o auxílio do VSCode no diretório local.  
+O arquivo foi editado no editor do GitHub.  
+
+No GitHub foi criado o diretório 'contents' no repositório language-studio, para armazenar os prints dos resultados das análises.  
+
+> Comandos/configurações:  
+> 
+> - Botão: "Add File".  
+> - Opção: + Create new file.  
+> - Preenchi: contents/image-list.txt  
+> - Opção: Commit changes.  
+> - Dentro do diretório 'inputs': "Add File".  
+> - Opção: Upload files 
+> - Cliquei em "Choose your files".  
+> - Carregou o conjunto de imagens.
+>
+
 
 -------
 
