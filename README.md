@@ -64,8 +64,17 @@ Nesta etapa, o procedimento foi o de editar o arquivo "readme.md". E, para isso:
 > - Abre o editor de texto no GitHub.
 >
 
-Após a edição do arquivo, no diretório local foi feito o git pull do repositório.  
 O arquivo foi editado no editor do GitHub.  
+Após a edição do arquivo, para atualizar o repositório local foi dado o comando git pull <endereço do repositório remoto>  
+
+>- No repositório local;  
+>  Clica no botão direito do mouse; e
+>- Opção: "Open Git Bash here"
+> No terminal digita o comando Git Pull <endereço do repositório remoto>
+
+~~~bash
+$ git pull https://github.com/z3mafra/language-studio.git
+~~~
 
 No GitHub foi criado o diretório 'contents' no repositório language-studio, para armazenar os prints dos resultados das análises.  
 
@@ -143,10 +152,8 @@ Analyze reviews in Language Studio
   
 <img src="https://github.com/z3mafra/language-studio/blob/main/contents/LabFala-fiat3-titulo.jpg" width="50%">
 
-
-run and run (prints)
-
-In this exercise you used Language Studio to either create a new Language resource or use an existing Language resource. You enabled the resource in Settings before trying out the Sentiment and opinion mining service. You then tested the service with three pieces of text.
+> [Note]  
+> É interessante notar como a análise liga emtdades e enunciados à intensões, criando um sentido ponderado de uma avaliação. Com o Language Studio pode-se fazer mineração de sentimentos e opiniões, com três trechos de texto...  
 
 
 -------
@@ -155,7 +162,7 @@ In this exercise you used Language Studio to either create a new Language resour
 
 O Processamento de Linguagem Natural (PNL) é fundamental para compreender e interagir com a linguagem escrita e falada, possibilitando a extração de significado semântico e a formulação de respostas em linguagem natural.  
 
-Agências de Viagens podem usar o Azure Language Studio para analisar avaliações de hotéis, identificando sentimentos e entidades mencionadas, melhorando a experiência do cliente.  
+Agências de Viagens, entre outros serviçoes, podem usar o Azure Language Studio para analisar avaliações de hotéis, identificando sentimentos e entidades mencionadas, melhorando a experiência do cliente.  
 
 O Azure Language Studio é uma ferramenta poderosa oferecida pela Microsoft para análise de texto e compreensão de linguagem natural. Uma das aplicações mais significativas do Language Studio é a análise de sentimentos, onde ele pode ser utilizado para determinar se as avaliações de produtos, serviços ou qualquer outro tipo de conteúdo são predominantemente positivas ou negativas. Isso é essencial para empresas que desejam entender o feedback dos clientes e a reputação de sua marca. Ao empregar técnicas de processamento de linguagem natural avançadas, o Language Studio é capaz de identificar nuances no texto, capturando não apenas palavras-chave, mas também o contexto e o tom geral das avaliações.  
 
@@ -165,7 +172,8 @@ Uma das vantagens do Azure Language Studio é sua capacidade de personalização
 
 No entanto, é importante reconhecer que nenhuma ferramenta de análise de sentimento é perfeita. O Azure Language Studio pode enfrentar desafios ao lidar com textos complexos ou ambíguos, onde o contexto pode influenciar significativamente o sentimento expresso. Além disso, como qualquer tecnologia baseada em machine learning, o desempenho do Language Studio pode variar dependendo da qualidade dos dados de treinamento e das configurações específicas utilizadas. Portanto, é fundamental complementar a análise automatizada com revisão humana e outras formas de feedback para obter uma compreensão abrangente das avaliações.  
 
-
+Um outro aspecto importante, que também deve ser consdierado, é a integração dessas ferramentas com os ambientes de navegação na internet, tais como plataformas, sites e aplicativos.  
+  
 -------
 
 ## 4. Compartilhar o link do repositório através do botão 'entregar projeto'  
@@ -178,8 +186,18 @@ Como é recomendado na documentção, senão se pretende fazer mais exercícios,
 >    1. Abra o portal do Azure (<https://portal.azure.com/>) e selecione o grupo de recursos que contém o recurso que você criou.  
 >    2. Selecione o recurso e selecione Excluir e depois Sim para confirmar. O recurso é então excluído.
 >
->>  - **Observação:** Uma curiosidade que, nesta etapa, a plataforma informou que não houve consumo de recursos, restando ainda um crédito de R$ 988,18, na assinatura gratuita.
+>>  - **Observação:** Uma curiosidade que, nesta etapa, a plataforma informou que não houve consumo de recursos, restando ainda um crédito de R$ 988,18, na assinatura gratuita. Foi a mesma posição do último desafio no Azura, Vision Studio: Detect faces; Read text; e, Analyze images.  
 
+Após completar o Desafio, fiz a atualização no repositório local com o comando git pull.  
+
+>- No repositório local;  
+>  Clica no botão direito do mouse; e
+>- Opção: "Open Git Bash here"
+> No terminal digita o comando Git Pull <endereço do repositório remoto>
+
+~~~bash
+$ git pull https://github.com/z3mafra/language-studio.git
+~~~
 
 ### **Postar link do repositório**
 Como é recomendado na documentção, senão se pretende fazer mais exercícios, excluir todos os recursos que não precisa mais. Isso evita acumular custos desnecessários.  
