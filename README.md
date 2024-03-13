@@ -113,15 +113,15 @@ O primeiro passo é criar um recurso de linguagem (Create a Language resource), 
 
 Configure your resource in Azure AI Language Studio
 
-In another browser tab, open Language Studio at https://language.cognitive.azure.com and sign in.
+Em outra aba do navegador, abra o **Language Studio** em https://language.cognitive.azure.com e faça login.
 
-When prompted with Select an Azure resource, make the following configurations:
+Quando solicitado com **Select an Azure resource**, faça as seguintes configurações:
 
-Azure directory: Default Directory, the directory you are using
-Azure subscription: Select the subscription you are using
-Resource type: Language
-Resource name: select the Language service resource you just created
-Then select Done.
+>- **Azure directory**: Default Directory, the directory you are using
+>- **Azure subscription**: Select the subscription you are using
+>- **Resource type**: Language
+>- **Resource name**: select the Language service resource you just created
+>- Em seguida, selecione **Done**.
 
 
 Analyze reviews in Language Studio
