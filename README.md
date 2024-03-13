@@ -97,7 +97,7 @@ No GitHub foi criado o diretório 'contents' no repositório language-studio, pa
 
 O primeiro passo é criar um recurso de linguagem (Create a Language resource), no Azure AI services, com sua inscrição Azure.  
 
-*Configurando para o Visio Studio*:
+#### *Configurando para o Visio Studio*:
 >
 >- 1. Entrar no portal Azure [https://portal.azure.com](https://portal.azure.com/?azure-portal=true).  
 >- 2. Clicar no botão ＋Create a resource e procure por serviço de idiomas (*Language Service*). Selecionei "create a Language service plan". Direcionado a uma página para **Select additional features**. Mantenha a seleção padrão e clique em **Continue to create your resource**.  
@@ -111,7 +111,7 @@ O primeiro passo é criar um recurso de linguagem (Create a Language resource), 
 >
 >- 4. Selecionei Review + create then Create e aguardei a implantação se completar.
 
-Configure your resource in Azure AI Language Studio
+#### *Configure seu recurso em* **Azure AI Language Studio**
 
 Em outra aba do navegador, abra o **Language Studio** em https://language.cognitive.azure.com e faça login.
 
@@ -124,27 +124,24 @@ Quando solicitado com **Select an Azure resource**, faça as seguintes configura
 >- Em seguida, selecione **Done**.
 
 
-Analyze reviews in Language Studio
-1. In a web browser, navigate to Language Studio at https://language.cognitive.azure.com.
+#### *Analise as avaliações em* **Language Studio**  
 
-2. On the Welcome to Language Studio landing page, select the Classify text tab, then select the Analyze sentiment and mine opinions tile.
-
-3. Under Select text language, select English.
-
-4. Under Select your Azure resource, select your resource. LabFala-texto-fiat-uno.txt
-
-5. Under Enter your own text, upload a file, or use one of our sample texts, copy and paste the following review:
+>  1. Em um navegador da web, navegue até **Language Studio** em https://language.cognitive.azure.com.
+>  2. Na página inicial **Welcome to Language Studio**, selecione a guia **Classify text** e, em seguida, selecione o bloco **Analyze sentiment and mine opinions**.
+>  3. Em Selecionar idioma do texto, selecione **English**.
+>  4. Em **Select your Azure resource**, selecione o seu recurso.
+>  5. Em **Enter your own text**, carregue o arquivo (LabFala-texto-fiat-uno.txt), com o seguinte comentário:
 
 >> Porque o Fiat Uno é tão bom?  
 >> É um carro simples e robusto, com bom valor de revenda e liquidez, mesmo já fora de linha. Tem no acabamento simples sua maior fragilidade, mas no geral não apresenta falhas graves e custosas de reparar. E deve permanecer ainda “bom de mercado” por um bom tempo pela frente. É uma opção a ser considerada.  
 >
 
-6. Check the box to acknowledge that the demo will incur usage and may incur costs, and then select Run.
+>  6. Marque a caixa para reconhecer que a demonstração incorrerá em uso e poderá incorrer em custos e, em seguida, selecione **Run**.
 
 
 <img src="https://github.com/z3mafra/language-studio/blob/main/contents/LabFala-fiat1-titulo.jpg" width="50%">
 
-7. Review the output. Notice that the document is analyzed for sentiment, as well as each sentence. Select Sentence 1 to show the sentiment analysis for that sentence.
+>  7. Revise a saída. Observe que o documento é analisado quanto ao sentimento, assim como cada frase. Selecione a frase 1 para mostrar a análise de sentimento dessa frase.
 
 
 <img src="https://github.com/z3mafra/language-studio/blob/main/contents/LabFala-fiat2-titulo.jpg" width="50%">
@@ -158,7 +155,7 @@ Analyze reviews in Language Studio
 
 -------
 
-### 3.3. alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças; 
+### 3.3. Alguns insights e possibilidades que você aprendeu durante o conteúdo após a IA analisar suas sentenças; 
 
 O Processamento de Linguagem Natural (PNL) é fundamental para compreender e interagir com a linguagem escrita e falada, possibilitando a extração de significado semântico e a formulação de respostas em linguagem natural.  
 
