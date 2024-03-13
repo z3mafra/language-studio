@@ -150,7 +150,7 @@ Quando solicitado com **Select an Azure resource**, faça as seguintes configura
 <img src="https://github.com/z3mafra/language-studio/blob/main/contents/LabFala-fiat3-titulo.jpg" width="50%">
 
 > [Note]  
-> É interessante notar como a análise liga emtdades e enunciados à intensões, criando um sentido ponderado de uma avaliação. Com o Language Studio pode-se fazer mineração de sentimentos e opiniões, com três trechos de texto...  
+> É interessante notar como a análise liga emtdades e enunciados à intensões, criando um sentido ponderado de uma avaliação. Com o **Language Studio** pode-se fazer mineração de sentimentos e opiniões, com três trechos de texto...  
 
 
 -------
