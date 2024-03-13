@@ -1,4 +1,4 @@
-# Desafio: Desafio: Conhecendo o Language Studio do Azure com Análise de Sentimentos
+# Desafio: Conhecendo o Language Studio do Azure com Análise de Sentimentos
 ## Repositório: language-studio  
 
 > 1. Crie um novo repositório no github com um nome a sua preferência;  
